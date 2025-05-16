@@ -1,4 +1,5 @@
 NuggetList is a lightweight blacklist/whitelist addon made for WoW 3.3.5a. 
+
 Main functions:
 - Whitelist/Blacklist
 - Marking a whitelisted/blacklisted player's messages with an 'N' icon on chat
